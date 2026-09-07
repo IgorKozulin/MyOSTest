@@ -1,1 +1,1 @@
-Hello from Solaris
+Hello from Solaris and add test file
